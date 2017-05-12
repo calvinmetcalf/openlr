@@ -1,0 +1,26 @@
+{
+  "name": "openlr",
+  "version": "1.0.0",
+  "main": "openlr.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "openlr.js",
+    "round.js"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinmetcalf/openlr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/openlr/issues"
+  },
+  "homepage": "https://github.com/calvinmetcalf/openlr#readme",
+  "description": ""
+}
